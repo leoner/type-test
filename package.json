@@ -1,0 +1,14 @@
+{
+  "name": "type-test",
+  "family": "leoner",
+  "version": "0.0.1",
+  "description": "type test.",
+  "homepage": "https://github.com/leoner/type-test",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:leoner/type-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leoner/type-test/issues"
+  }
+}
